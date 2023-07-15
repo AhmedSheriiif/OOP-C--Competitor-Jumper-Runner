@@ -1,0 +1,13 @@
+Using CLion:
+1- Create new cmake (c++) project in clion
+2- Copy the files and add it to the location of the created program
+3- navigate to each class (.cpp) and add it to the cmakelist file
+4- delete the clion created main
+5- run the app and enjoy
+---------------------------------------------------------------------
+Using VS2019
+1- Create non-empty c++ console application
+2- copy the files and add them to the source location of the created program
+3- delete the created main by vs2019
+4- build
+5- run
